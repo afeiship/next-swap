@@ -21,6 +21,10 @@ nx.swap(arr, 0, 3);
 // [4, 2, 3, 1]
 ```
 
+## resources
+- https://www.c-sharpcorner.com/blogs/swap-array-elements-in-javascript-using-array-prototype-and-other-methods
+- https://dmitripavlutin.com/swap-variables-javascript/
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-swap/blob/master/LICENSE.txt).
 
