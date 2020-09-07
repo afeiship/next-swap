@@ -3,8 +3,11 @@ require('../src/next-swap');
 
 describe('api.basic test', () => {
   test('nx.swap should return the original array', function () {
-    var arr = [1, 2, 3, 4];
-    nx.swap(arr, 0, 3);
-    expect(arr).toEqual([4, 2, 3, 1]);
+    var arr1 = [1, 2, 3, 4];
+    var arr2 = ['a', 'b', 'c', 'd'];
+    nx.swap(arr1, 0, 3);
+    nx.swap(arr2, 0, 3);
+    expect(arr1).toEqual([4, 2, 3, 1]);
+    expect(arr2).toEqual(['d', 'b', 'c', 'a']);
   });
 });
