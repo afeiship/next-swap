@@ -3,7 +3,7 @@
  * description: Array swap for next.
  * homepage: https://github.com/afeiship/next-swap
  * version: 1.0.0
- * date: 2020-11-20 11:19:23
+ * date: 2020-11-20 11:20:05
  * license: MIT
  */
 
