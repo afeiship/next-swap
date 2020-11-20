@@ -8,7 +8,7 @@
 
 ## installation
 ```bash
-npm install -S @feizheng/next-swap
+npm install -S @jswork/next-swap
 ```
 
 ## usage
@@ -25,17 +25,18 @@ nx.swap(arr, 0, 3);
 - https://www.c-sharpcorner.com/blogs/swap-array-elements-in-javascript-using-array-prototype-and-other-methods
 - https://dmitripavlutin.com/swap-variables-javascript/
 
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-swap/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/next-swap
-[version-url]: https://npmjs.org/package/@feizheng/next-swap
+[version-image]: https://img.shields.io/npm/v/@jswork/next-swap
+[version-url]: https://npmjs.org/package/@jswork/next-swap
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/next-swap
+[license-image]: https://img.shields.io/npm/l/@jswork/next-swap
 [license-url]: https://github.com/afeiship/next-swap/blob/master/LICENSE.txt
 
-[size-image]: https://img.shields.io/bundlephobia/minzip/@feizheng/next-swap
+[size-image]: https://img.shields.io/bundlephobia/minzip/@jswork/next-swap
 [size-url]: https://github.com/afeiship/next-swap/blob/master/dist/next-swap.min.js
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/next-swap
-[download-url]: https://www.npmjs.com/package/@feizheng/next-swap
+[download-image]: https://img.shields.io/npm/dm/@jswork/next-swap
+[download-url]: https://www.npmjs.com/package/@jswork/next-swap

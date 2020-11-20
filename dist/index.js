@@ -1,15 +1,16 @@
 /*!
- * name: @feizheng/next-swap
+ * name: @jswork/next-swap
  * description: Array swap for next.
  * homepage: https://github.com/afeiship/next-swap
- * version: 1.0.1
- * date: 2020-09-07T06:11:46.985Z
+ * version: 1.0.0
+ * date: 2020-11-20 11:19:23
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
+  var DEFAULT_OPTIONS = { context: global };
 
   nx.swap = function (inArray, inIndex1, inIndex2) {
     var tmp = inArray[inIndex2];
