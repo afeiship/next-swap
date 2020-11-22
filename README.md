@@ -13,7 +13,7 @@ npm install -S @jswork/next-swap
 
 ## usage
 ```js
-import '@feizheng/next-swap';
+import '@jswork/next-swap';
 
 const arr = [1, 2, 3, 4];
 nx.swap(arr, 0, 3);
